@@ -8,8 +8,6 @@ If you find the code useful, please cite the following paper.
 # Highlights
 
 
-
-#  Usage
 # Environment 
 The code is developed under the following configurations:Ubuntu 18.04 Linux operating system, configured with three NVIDIA GeForce RTX 2080Ti GPUs, each with 11GB of memory.
 
