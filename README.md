@@ -27,6 +27,7 @@ The RDD2022, UAPD, and UAV-PDD2023 datasets can be downloaded with:
 RDD2022:https://github.com/sekilab/RoadDamageDetector
 UAPD:https://drive.google.com/file/d/16rAC8E52oUAWZ4YXb3O3_25qMUTRhdfV/view?usp=sharing
 UAV-PDD2023:https://zenodo.org/records/8429208
+
 Many thanks to the following Crowdsensing-based Road Damage Detection Challenge (CRDDC'2022) and the following papers for providing datasets.
 J. Zhu, J. Zhong, T. Ma, X. Huang, W. Zhang, and Y. Zhou, “Pavement distress detection using convolutional neural networks with images captured via UAV,” Autom. Constr., vol. 133, Jan. 2022, Art. no. 103991.
 H. Yan, J. Zhang, “UAV-PDD2023: a benchmark dataset for pavement distress detection based on UAV images,” Data Brief, vol. 51, Dec. 2023, Art. no. 109692.
