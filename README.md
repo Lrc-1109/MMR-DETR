@@ -20,11 +20,11 @@ $ conda activate MMS-DETR
 $ pip install -r requirements.txt
 
 # Training
-  $ CUDA VISIBLE DEVICEs=0 python train.py
+$ CUDA VISIBLE DEVICEs=0 python train.py
 # Test
-  $ python detect.py
+$ python detect.py
 # Val
-  $ python val.py
+$ python val.py
 # Datsets
 The RDD2022, UAPD, and UAV-PDD2023 datasets can be downloaded with:
 
