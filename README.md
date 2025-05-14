@@ -1,5 +1,5 @@
-# MMS-DETR
-The implementation code for MMS-DETR. The .pth file contains the main training weights.
+# MMR-DETR
+The implementation code for MMR-DETR. The .pth file contains the main training weights.
 
 # Datasets
 This is the code base for a paper submitted to IEEE TIM. This paper presents a novel road damage detection model based on improved RT-DETR, implemented on three publicly available datasets for experiments. 
@@ -13,9 +13,9 @@ The code is developed under the following configurations:Ubuntu 18.04 Linux oper
 
 Install conda and create a conda environment
 
-$ conda create -n MMS-DETR
+$ conda create -n MMR-DETR
 
-$ conda activate MMS-DETR
+$ conda activate MMR-DETR
 
 $ pip install -r requirements.txt
 
