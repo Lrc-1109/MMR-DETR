@@ -1,4 +1,4 @@
-# MMS-DETR
+# MMR-DETR
 The implementation code for MMS-DETR. The .pth file contains the main training weights.
 
 # Datasets
