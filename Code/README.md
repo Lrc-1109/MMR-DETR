@@ -13,9 +13,9 @@ The code is developed under the following configurations:Ubuntu 18.04 Linux oper
 
 Install conda and create a conda environment
 
-$ conda create -n MMS-DETR
+$ conda create -n MMR-DETR
 
-$ conda activate MMS-DETR
+$ conda activate MMR-DETR
 
 $ pip install -r requirements.txt
 
