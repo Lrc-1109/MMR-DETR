@@ -1,6 +1,6 @@
 task: detect
 mode: train
-model: ultralytics/cfg/models/rt-detr/MMS-DETR.yaml
+model: ultralytics/cfg/models/rt-detr/MMR-DETR.yaml
 data: dataset/data.yaml
 epochs: 72
 patience: 0
