@@ -10,6 +10,7 @@ if __name__ == '__main__':
                   conf=0.3,
                   project=r'G:\lrc\RDD',
                   name='detr',
+                  
                   save=True,
 
                   )
