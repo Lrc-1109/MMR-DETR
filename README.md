@@ -1,5 +1,5 @@
 # MMR-DETR
-The implementation code for MMR-DETR. The .pth file contains the main training weights.
+The implementation code for MMR-DETR. The results file contains model best and last weights.
 
 # Datasets
 This is the code base for a paper submitted to IEEE TIM. This paper presents a novel road damage detection model based on improved RT-DETR, implemented on three publicly available datasets for experiments. 
